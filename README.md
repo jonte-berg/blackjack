@@ -1,2 +1,2 @@
 # blackjack
-Old project
+Old project - originally forked and now finished
